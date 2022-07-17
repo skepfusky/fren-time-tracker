@@ -7,13 +7,14 @@ a solution for that!
 You can now track your friends' timezone to see if they're either sleeping or
 probably waking up, you can know what time they're currently on.
 
-Made in Vue 3 with TypeScript + Vite + Electron with TypeScript.
+Made in Nextron with TypeScript and TailwindCSS.
 
-![](https://skillicons.dev/icons?i=vue,vite,ts,electron,tailwind)
+![](https://skillicons.dev/icons?i=react,nextjs,ts,electron,tailwind)
 
 ## Why?
 
-YOUR MOM THAT'S WHY
+I couldn't find any app that can help me track of various timezones, some of
+them I could find are locked behind a paywall, so I made this :3
 
 ## Contributing
 

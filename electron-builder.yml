@@ -1,0 +1,12 @@
+appId: com.frentimetracker.skepfusky
+productName: Fren Time Tracker
+copyright: Copyright © 2022 Kerby Keith Aquino
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
